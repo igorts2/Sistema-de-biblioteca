@@ -396,3 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Ignorar a chave do SQL Server
+appsettings.json
+
+# Ignorar a pasta de migracoes do Entity Framework
+/Data/Migrations/
