@@ -85,4 +85,4 @@ Substitua NomeDaMigracao por um nome significativo para a migração.
 Isso criará ou atualizará o banco de dados de acordo com o modelo definido no código.
 
 ## Conclusão
-O programa é uma aplicação de console que simula um sistema de biblioteca, permitindo a interação com autores, livros, usuários e operações de empréstimo e devolução. A estrutura modular e a divisão em diferentes pastas facilitam a manutenção e expansão do código. Certifique-se de manter o código bem documentado e considere adicionar mais detalhes sobre a implementação específica de cada método, especialmente no contexto do banco de dados e nas operações de empréstimo e devolução.
+O programa é uma aplicação de console que simula um sistema de biblioteca, permitindo a interação com autores, livros, usuários e operações de empréstimo e devolução. A estrutura modular e a divisão em diferentes pastas facilitam a manutenção e expansão do código. 
