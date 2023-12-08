@@ -12,7 +12,7 @@ internal class BibliotecaContext : DbContext
     public DbSet<Emprestimo> Emprestimos { get; set; }
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseMySql("Server=localhost;Database=biblioteca;User=root;Password=ij159753;", new MySqlServerVersion("8.0.34"));
+        optionsBuilder.UseMySql("Sua chave Sql"));
     }
     public void AdicionarAutor(Autor novoAutor)
     {
